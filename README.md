@@ -4,7 +4,7 @@
 Test-driven development
 
 ### Description
-A simple script that adds employees to a fictional company database with their details (first, last name etc) and produces email accounts and pay rise calculations. The script is tested with the pytest module.
+A simple script that adds employees to a fictional company database with their details (first, last name etc) and produces email accounts and pay rise calculations. The script is tested with the pytest module. The same example is [available with unittest](https://github.com/kkoutoup/Unittest-example-company-employees).
 
 ### Purpose
 Familiarising myself with Python's pytest module
