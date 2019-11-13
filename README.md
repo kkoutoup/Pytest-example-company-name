@@ -19,8 +19,8 @@ test_manager_sub_class.py
 ```
 
 ### Dependencies
-Python
-([pytest](https://docs.pytest.org/en/2.8.7/index.html))
+- Python
+- [pytest](https://docs.pytest.org/en/2.8.7/index.html)
 
 ### Developed by
 Kostas Koutoupis ([@kkoutoup](https://github.com/kkoutoup)), November 2019
